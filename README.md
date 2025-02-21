@@ -17,7 +17,7 @@ This project is a simple and interactive UI component developed using fundamenta
 
 ## Live Demo
 You can access the deployed project at:
-[Deployed URL](#) *(Replace with actual link)*
+🔗 **[Interactive Boxes - Live Demo](https://kameshs24.github.io/Interactive-Boxes/)**
 
 ## Installation & Usage
 1. Clone this repository:
